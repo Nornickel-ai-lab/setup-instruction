@@ -19,8 +19,6 @@ chmod +x deploy.sh && ./deploy.sh
 → http://localhost:8080 · вход http://localhost:8081/login  
 → `researcher@local.dev` / `researcher123`
 
-Полная инструкция: [server-service/README.md](server-service/README.md) или [РАЗВОРОТ.txt](РАЗВОРОТ.txt)
-
 ## Репозитории
 
 | Репо | Папка |
