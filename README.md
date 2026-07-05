@@ -1,6 +1,5 @@
-# Nornickel AI Lab — карта знаний R&D
+# Nornickel AI Lab
 
-MVP «единая карта знаний R&D», хакатон Nornickel AI Lab.
 
 ## Быстрый старт
 
