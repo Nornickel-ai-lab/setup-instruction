@@ -27,3 +27,9 @@ chmod +x deploy.sh && ./deploy.sh
 | [server-service](https://github.com/Nornickel-ai-lab/server-service) | `server-service/` |
 | [ml-service](https://github.com/Nornickel-ai-lab/ml-service) | `ml-service/` |
 | [esa-service](https://github.com/Nornickel-ai-lab/esa-service) | `esa/` |
+
+## Документы
+После развёртывания **рекомендуется загрузить свои PDF через интерфейс**...
+1. «Загрузка» - PDF / ZIP / папка
+
+deploy.sh подгружает минимальный набор документов для демо; для демо лучше добавить свои файлы через UI.
